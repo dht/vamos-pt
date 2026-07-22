@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shadow for the needle -->
+  <path d="M100,100 L95,105 L100,30 L105,105 Z" fill="rgba(0, 0, 0, 0.2)" />
+
+  <!-- Needle -->
+  <path d="M100,100 L95,100 L100,20 L105,100 Z" fill="gold" />
+
+  <!-- Needle pivot -->
+  <circle cx="100" cy="100" r="5" fill="black" />
+
+  <!-- Needle center detail -->
+  <circle cx="100" cy="100" r="3" fill="gray" />
+</svg>

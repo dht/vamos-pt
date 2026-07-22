@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "isRtl": false,
+  "dateFormats": {
+    "date": "dddd, LL",
+    "time": "LT"
+  },
+  "analytics": {
+    "enabled": false,
+    "firebase": {
+      "apiKey": "",
+      "projectId": "vamos",
+      "appId": "",
+      "measurementId": ""
+    }
+  },
+  "siteName": "Setúbal District",
+  "map": {
+    "center": {
+      "lat": 38.35,
+      "lng": -8.85
+    },
+    "zoom": 9
+  }
+}
